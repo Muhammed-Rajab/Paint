@@ -12,9 +12,9 @@ A simple khan academy question modal like painting canvas.
 
 ## Installation
 Open terminal and run the following commands:
-> `git clone https://github.com/Muhammed-Rajab/Paint-Khan-Academy.git`
+> `git clone https://github.com/Muhammed-Rajab/Paint.git`
 
-> `cd 'Paint-Khan-Academy'`
+> `cd 'Paint'`
 
 
 > `chmod +x run.sh`
